@@ -94,26 +94,6 @@ Each run writes a pickle to `results/raw/<exp_name>/<func>/<method>/seed<k>.pkl`
 
 ---
 
-## Paper
-
-The paper, with full theory + experimental details, is in [`paper/`](paper/) (will be added on acceptance / after de-anonymization).
-
----
-
 ## License
 
 MIT — see [LICENSE](LICENSE).
-
----
-
-## Citation
-
-```bibtex
-@article{hcgpucb2025,
-  title  = {Hybrid Concentration-aware {GP-UCB}: Tight Regret Guarantees and Engineering Realization for Bayesian Optimization},
-  author = {<TBD: filled on acceptance>},
-  journal= {IEEE Transactions on Artificial Intelligence},
-  year   = {2025},
-  note   = {Under review}
-}
-```
