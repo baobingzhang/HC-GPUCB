@@ -2,7 +2,7 @@
 
 **Hybrid Concentration-aware Gaussian Process Upper Confidence Bound** for Bayesian optimization with tight regret guarantees.
 
-Reference implementation for the paper *"Hybrid Concentration-aware GP-UCB: Tight Regret Guarantees and Engineering Realization for Bayesian Optimization"* (IEEE TAI submission).
+Reference implementation for the paper *"Hybrid Concentration-aware GP-UCB: Tight Regret Guarantees and Engineering Realization for Bayesian Optimization"*.
 
 ---
 
