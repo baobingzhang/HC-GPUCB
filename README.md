@@ -96,6 +96,22 @@ Each run writes a pickle to `results/raw/<exp_name>/<func>/<method>/seed<k>.pkl`
 
 ---
 
+## Citation
+
+If you use this code or build on the ideas in your own work, please cite:
+
+```bibtex
+@article{zhang2026hcgpucb,
+  author  = {Zhang, Baobing and Sui, Wanxin},
+  title   = {{HC-GPUCB}: Hybrid Concentration-Aware {Gaussian} Process Upper Confidence Bound for {Bayesian} Optimization with Tight Regret Guarantees},
+  journal = {IEEE Transactions on Artificial Intelligence},
+  year    = {2026},
+  note    = {Accepted; DOI to be added upon publication.}
+}
+```
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
